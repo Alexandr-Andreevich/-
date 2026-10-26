@@ -16,7 +16,7 @@
   - запустить терминал
   - создать виртуальное окружение командой: py -m venv .venv
   - запустить виртуальное окружение командой: .venv\Scripts\activate
-  - установить необходимые библиотеки для работы командой: py -m pip install -q --upgrade gymnasium mujoco stable-baselines3 imageio matplotlib seaborn plotly tqdm pandas
+  - установить необходимые библиотеки для работы командой: py -m pip install --upgrade gymnasium mujoco stable-baselines3 imageio matplotlib seaborn plotly tqdm pandas
   - запустить файл main.py
 
 После обучения модели, появится видео с лучшим эпизодом агента.
