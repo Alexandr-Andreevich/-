@@ -15,7 +15,7 @@
   - разархивировать папку **Pusher-v5 PPO.zip**
   - в фреймворке выбрать папку для работы **Pusher-v5 PPO**
   - запустить терминал
-  - создать виртуальное окружение в папке с файлом main.py командой: **py -m venv .venv**
+  - создать виртуальное окружение **в папке с файлом main.py** командой: **py -m venv .venv**
   - запустить виртуальное окружение командой: **.venv\Scripts\activate**
   - установить необходимые библиотеки для работы командой: **py -m pip install --upgrade gymnasium mujoco stable-baselines3 imageio matplotlib seaborn plotly tqdm pandas**
   - запустить файл **main.py**
