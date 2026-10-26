@@ -7,7 +7,7 @@
 Ссылка на работу в Google Collab: https://colab.research.google.com/drive/14FjkgJqFGE35ZHLEjBNQ7RyINH6rqiy6?usp=sharing
 
 # Запуск проекта
-  - скачать папку Pusher-v5 PPO
+  - скачать папку Pusher-v5 PPO.zip
   - в терминале запустить виртуальное окружение командой .venv\Scripts\activate
   - запустить файл main.py
 
