@@ -12,7 +12,11 @@
 
 # Запуск проекта на ПК
   - скачать папку Pusher-v5 PPO.zip
-  - в терминале запустить виртуальное окружение командой .venv\Scripts\activate
+  - открыть проект в VSCode или Pycharm
+  - запустить терминал
+  - создать виртуальное окружение командой: py -m venv .venv
+  - установить необходимые библиотеки для работы командой: py -m pip install -q --upgrade gymnasium mujoco stable-baselines3 imageio matplotlib seaborn plotly tqdm pandas
+  - запустить виртуальное окружение командой: .venv\Scripts\activate
   - запустить файл main.py
 
 После обучения модели, появится видео с лучшим эпизодом агента.
